@@ -19,20 +19,21 @@
     margin: auto;
     color: #024e76;
 
-    .h3 {
+  .secondary-content h3 {
       font-size: 25px;
-      margin: 20px 0 20px 0;
+      margin: 20px 0;
     }  
     
-    .p {
+  .secondary-content p {
     font-size: 16px;
     line-height: 1.5;
-    overflow: auto;
-    background-color: #fce138;
     }
     
-    .ul {
+  .secondary-content ul {
+      margin: 15px 20px;
+  }
+  
+  .secondary-content li {
     color: #39a6b2;
-    margin: 10px 0 10px 0;
   }
 }
